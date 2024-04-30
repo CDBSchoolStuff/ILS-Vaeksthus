@@ -7,3 +7,5 @@ smbus
 python-dev-tools
 i2c-tools
 
+# LDR
+gpiozero
