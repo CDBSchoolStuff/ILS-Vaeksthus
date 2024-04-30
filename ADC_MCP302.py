@@ -17,7 +17,7 @@ class MCP3021:
     
 adc = MCP3021()
 
-while True:
-    raw = adc.readRaw()
-    print("Raw :", raw)
-    time.sleep(1)
+# while True:
+#     raw = adc.readRaw()
+#     print("Raw :", raw)
+#     time.sleep(1)
