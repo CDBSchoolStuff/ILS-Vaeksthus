@@ -1,0 +1,9 @@
+# DHT11
+adafruit-circuitpython-dht
+
+
+# MCP302
+python3-smbus
+python3-dev
+i2c-tools
+
