@@ -1,0 +1,1 @@
+# Waterproof temperature sensor
