@@ -3,7 +3,7 @@ adafruit-circuitpython-dht
 
 
 # MCP302
-python3-smbus
-python3-dev
+smbus
+python-dev-tools
 i2c-tools
 
